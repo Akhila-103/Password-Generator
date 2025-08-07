@@ -1,9 +1,9 @@
 # Password-Generator
-**Developer details**
-**Developer**:L.Akhila
-****Rollno**:222T1A3135
-**Institution**:Ashoka Womens Engineering College
-**Academic Year**:2024-2025
+- **Developer details**
+- **Developer**:L.Akhila
+- **Rollno**:222T1A3135
+- **Institution**:Ashoka Womens Engineering College
+- **Academic Year**:2024-2025
 **# 🔐 Secure Password Manager
 
 A simple, client-side password manager web application that helps users generate and validate secure passwords. Built with vanilla HTML, CSS, and JavaScript for maximum compatibility and security.
